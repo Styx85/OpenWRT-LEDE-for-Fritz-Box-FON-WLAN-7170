@@ -1,3 +1,5 @@
 # OpenWRT-LEDE
 
-Try to run OpenWRT/LEDE on AVM FritzBox!Fon 7170
+Try to run OpenWRT/LEDE on AVM Fritz!Box Fon WLAN 7170.
+
+OpenWRT Wiki<a href=https://wiki.openwrt.org/toh/avm/fritz.box.wlan.7170>
