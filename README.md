@@ -2,7 +2,7 @@
 
 Try to run OpenWRT/LEDE on AVM Fritz!Box Fon WLAN 7170.
 
-[LEDE Forum Discussion Thread](https://forum.lede-project.org/t/avm-fritz-box-fon-wlan-7170-support-working-image/8304?u=styx85)<br>
+[LEDE Forum Discussion Thread](https://forum.lede-project.org/t/avm-fritz-box-fon-wlan-7170-support-working-image/8304)<br>
 
 [LEDE Beginners Build Guide](https://lede-project.org/docs/user-guide/beginners-build-guide)<br>
 [LEDE Quick Image Building Guide](https://lede-project.org/docs/guide-developer/quickstart-build-images)<br>
